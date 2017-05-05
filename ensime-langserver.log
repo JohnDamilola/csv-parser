@@ -1,0 +1,15 @@
+[2017-05-05 01:28:04,653] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/mac/Documents/Projects/Scala/csv-parser
+[2017-05-05 01:28:04,653] INFO org.github.dragos.vscode.Main$ - Starting server in /Users/mac/Documents/Projects/Scala/csv-parser
+[2017-05-05 01:28:04,804] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/mac/.vscode/extensions/dragos.scala-lsp-0.1.3/coursier
+[2017-05-05 01:28:04,804] INFO org.github.dragos.vscode.Main$ - Classpath: /Users/mac/.vscode/extensions/dragos.scala-lsp-0.1.3/coursier
+[2017-05-05 01:28:07,146] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+[2017-05-05 01:28:10,187] INFO org.github.dragos.vscode.EnsimeLanguageServer - Initialized with 64985, /Users/mac/Documents/Projects/Scala/csv-parser, ClientCapabilities()
+[2017-05-05 01:28:10,187] INFO org.github.dragos.vscode.EnsimeLanguageServer - Initialized with 64985, /Users/mac/Documents/Projects/Scala/csv-parser, ClientCapabilities()
+[2017-05-05 01:28:10,809] ERROR langserver.core.Connection - No notification type exists with method=initialized
+[2017-05-05 01:28:10,809] ERROR langserver.core.Connection - No notification type exists with method=initialized
+[2017-05-05 01:32:25,395] INFO org.github.dragos.vscode.EnsimeLanguageServer - Got hover request at (16, 20).
+[2017-05-05 01:32:25,395] INFO org.github.dragos.vscode.EnsimeLanguageServer - Got hover request at (16, 20).
+[2017-05-05 01:32:25,454] DEBUG org.github.dragos.vscode.EnsimeLanguageServer - DocUriAtPointReq future completed: succes? false
+[2017-05-05 01:32:25,454] DEBUG org.github.dragos.vscode.EnsimeLanguageServer - DocUriAtPointReq future completed: succes? false
+[2017-05-05 01:32:26,189] ERROR langserver.core.Connection - No notification type exists with method=$/cancelRequest
+[2017-05-05 01:32:26,189] ERROR langserver.core.Connection - No notification type exists with method=$/cancelRequest
